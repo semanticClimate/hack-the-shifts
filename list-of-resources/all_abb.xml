@@ -1,0 +1,124 @@
+<dictionary title="all_abb">
+  <entry name="HLAB" term="High-Level Advisory Board on Effective Multilateralism" wikidataID=""/>
+  <entry name="UNU-CPR" term="United Nations University Centre for Policy Research" wikidataID=""/>
+  <entry name="SDGs" term="Sustainable Development Goals">
+    <raw wikidataID="Q7649586, Q22547988, Q30252260, Q104858841, Q104759743, Q104901988, Q109354788"/>
+  </entry>
+  <entry name="ECOSOC" term="Economic and Social Council">
+    <raw wikidataID="Q170075, Q3388269, Q2994351, Q96376940, Q20105375, Q2994343, Q21006284"/>
+  </entry>
+  <entry name="LRGs" term="local and regional governments" wikidataID=""/>
+  <entry name="ILO" term="International Labour Organization">
+    <raw wikidataID="Q54129, Q29883540, Q29700241, Q111172886, Q100269536, Q100269543, Q115550520"/>
+  </entry>
+  <entry name="COPUOS" term="Committee on the Peaceful Uses of Outer Space" wikidataID="Q681447"/>
+  <entry name="WTO" term="World Trade Organization">
+    <raw wikidataID="Q7825, Q22124451, Q840160, Q2973006, Q3025293, Q3485734, Q15286369"/>
+  </entry>
+  <entry name="IP" term="intellectual property">
+    <raw wikidataID="Q131257, Q3152999, Q110826525, Q63770818, Q117706030, Q117671783, Q18657604"/>
+  </entry>
+  <entry name="TRIPS" term="Trade-Related Intellectual Property Rights" wikidataID=""/>
+  <entry name="WIPO" term="World Intellectual Property Organization">
+    <raw wikidataID="Q177773, Q741547, Q5166228, Q59638709, Q59671068, Q121306804"/>
+  </entry>
+  <entry name="DRE" term="Distributed renewable energy" wikidataID="Q107510566"/>
+  <entry name="LDC REEEI" term="LDC Renewable Energy and Energy Efficiency Initiative for Sustainable Development" wikidataID=""/>
+  <entry name="UNEP" term="UN Environment Programme's" wikidataID=""/>
+  <entry name="WHO" term="World Health Organization">
+    <raw wikidataID="Q7817, Q77083972, Q2928049, Q15757365, Q58502228"/>
+  </entry>
+  <entry name="IMF" term="International Monetary Fund">
+    <raw wikidataID="Q7804, Q100164909, Q100164906, Q106646506, Q106945399, Q110266509, Q110266756"/>
+  </entry>
+  <entry name="SPAN" term="Science-Policy-Action Network" wikidataID=""/>
+  <entry name="UNEA" term="UN Environment Assembly" wikidataID="Q106495479"/>
+  <entry name="SPAN" term="Science-Policy-Action Network" wikidataID=""/>
+  <entry name="IPCC" term="Intergovernmental Panel on Climate Change">
+    <raw wikidataID="Q171183, Q56670540, Q59664588"/>
+  </entry>
+  <entry name="CDR" term="Carbon Dioxide Removal">
+    <raw wikidataID="Q30314404, Q56298528, Q59296188, Q58824392"/>
+  </entry>
+  <entry name="SRM" term="Solar Radiation Modification" wikidataID="Q17165387"/>
+  <entry name="UNFCCC" term="UN Framework Convention on Climate Change" wikidataID=""/>
+  <entry name="ODA" term="Official development assistance">
+    <raw wikidataID="Q954977, Q9294828, Q33121724, Q119471957, Q112858083"/>
+  </entry>
+  <entry name="UNCTAD" term="United Nations Conference on Trade and Development" wikidataID="Q182000"/>
+  <entry name="MDB" term="Multilateral Development Bank">
+    <raw wikidataID="Q105758271, Q59669967, Q59561202, Q59666601, Q59635366, Q59667773, Q59561461"/>
+  </entry>
+  <entry name="IFIs" term="international financial institutions">
+    <raw wikidataID="Q56757805, Q56756441, Q56756513, Q59665961, Q59671599"/>
+  </entry>
+  <entry name="GFSN" term="Global Financial Safety Net" wikidataID=""/>
+  <entry name="SLL" term="Short-Term Liquidity Line" wikidataID=""/>
+  <entry name="SDRs" term="Special Drawing Rights" wikidataID="Q363958"/>
+  <entry name="CACs" term="collective action clauses" wikidataID=""/>
+  <entry name="SCDIs" term="state contingent debt instruments" wikidataID=""/>
+  <entry name="IOSCO" term="International Organization of Securities Commission" wikidataID="Q1502826"/>
+  <entry name="CRAs" term="Credit Rating Agencies">
+    <raw wikidataID="Q5183779, Q59637585, Q59648629"/>
+  </entry>
+  <entry name="OEWG" term="Open-Ended Working Group" wikidataID="Q31838996"/>
+  <entry name="PBC" term="Peacebuilding Commission" wikidataID="Q1534084"/>
+  <entry name="IAEA" term="International Atomic Energy Agency">
+    <raw wikidataID="Q41984, Q58950129, Q102228375, Q100566808, Q33526983, Q96331874"/>
+  </entry>
+  <entry name="LDCs" term="less developed countries" wikidataID=""/>
+  <entry name="SIDS" term="Small Island Developing States">
+    <raw wikidataID="Q1434887, Q58260016"/>
+  </entry>
+  <entry name="WPS" term="Women, Peace and Security">
+    <raw wikidataID="Q83154120, Q119504717, Q98280496, Q58029994, Q59429803"/>
+  </entry>
+  <entry name="BWC" term="Biological Weapons Convention" wikidataID="Q803887"/>
+  <entry name="AI" term="artificial intelligence">
+    <raw wikidataID="Q11660, Q4801030, Q221113, Q128447, Q107307291, Q2865784, Q4801033"/>
+  </entry>
+  <entry name="TOC" term="Transnational organized crime">
+    <raw wikidataID="Q3697179, Q60189827, Q59667737, Q59649011, Q64114144"/>
+  </entry>
+  <entry name="India" term="Ireland, and Canada.Jayati Ghosh Jayati Ghosh" wikidataID=""/>
+  <entry name="UNU-CPR" term="United Nations University Centre for Policy Research" wikidataID=""/>
+  <entry name="GBF" term="Global Biodiversity Framework" wikidataID=""/>
+  <entry name="IPLCs" term="Indigenous peoples and local communities" wikidataID="Q117442289"/>
+  <entry name="REDD+" term="Reduce Emissions from Deforestation and Forest Degradation in Developing Countries" wikidataID=""/>
+  <entry name="ICVCM" term="Integrity Council for the Voluntary Carbon Market" wikidataID=""/>
+  <entry name="VCMI" term="Voluntary Carbon Markets Integrity Initiative" wikidataID=""/>
+  <entry name="SBTi" term="Science Based Targets initiative" wikidataID="Q109315612"/>
+  <entry name="CSW" term="Commission on the Status of Women" wikidataID="Q2614097"/>
+  <entry name="SBTN" term="Science Based Targets for Nature" wikidataID=""/>
+  <entry name="CEEW" term="Council on Energy, Environment and Water" wikidataID="Q24906074"/>
+  <entry name="IPCC" term="Intergovernmental Panel on Climate Change">
+    <raw wikidataID="Q171183, Q56670540, Q59664588"/>
+  </entry>
+  <entry name="IPBES" term="Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services" wikidataID="Q1666088"/>
+  <entry name="CBD" term="Convention on Biological Diversity" wikidataID="Q152805"/>
+  <entry name="CMS" term="Convention on Migratory Species">
+    <raw wikidataID="Q51460028, Q125371"/>
+  </entry>
+  <entry name="UNCCD" term="UN Convention to Combat Desertification" wikidataID=""/>
+  <entry name="BRS" term="Basel, Rotterdam, and Stockholm" wikidataID=""/>
+  <entry name="AI" term="artificial intelligence">
+    <raw wikidataID="Q11660, Q4801030, Q221113, Q128447, Q107307291, Q2865784, Q4801033"/>
+  </entry>
+  <entry name="DFFT" term="Data Free Flow with Trust" wikidataID=""/>
+  <entry name="UNFCCC" term="UN Framework Convention on Climate Change" wikidataID=""/>
+  <entry name="PGA" term="President of the General Assembly" wikidataID="Q67645179"/>
+  <entry name="ECOWAS" term="Economic Community of West African States">
+    <raw wikidataID="Q193272, Q1274219, Q56396388, Q58101523"/>
+  </entry>
+  <entry name="UNROCA" term="UN Register on Conventional Arms" wikidataID=""/>
+  <entry name="UNMILEX" term="UN Report on Military Expenditures" wikidataID=""/>
+  <entry name="SSRC" term="Science Research Council">
+    <raw wikidataID="Q1457340, Q58966550, Q30280199, Q71898889, Q71899308"/>
+  </entry>
+  <entry name="Biological" term="Bacteriological">
+    <raw wikidataID="Q170907, Q6839270, Q26842859, Q68756090, Q8242560, Q743780, Q51445186"/>
+  </entry>
+  <entry name="Biological" term="Bacteriological">
+    <raw wikidataID="Q170907, Q6839270, Q26842859, Q68756090, Q8242560, Q743780, Q51445186"/>
+  </entry>
+</dictionary>
